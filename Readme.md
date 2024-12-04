@@ -23,3 +23,8 @@
 
   
 Deployed Link : https://task-manager-dash-g4y4.vercel.app/
+
+Run locally using Vite :
+- npm install
+- cd frontend 
+- npm run dev
